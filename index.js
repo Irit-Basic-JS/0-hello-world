@@ -1,1 +1,2 @@
-console.log("hello world!");
+let question = "Gde kupit' mozgi?";
+console.log(question);
