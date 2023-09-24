@@ -1,2 +1,2 @@
 console.log("hlo world!");
-console.log("Слщжно очень сложно");
+console.log("Сложно очень сложно");
